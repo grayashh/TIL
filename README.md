@@ -2,8 +2,24 @@
 
 매일 공부한 것을 기록합니다.
 
-# 자료구조와 알고리즘
+# 데이터 구조
 
-- [데이터 구조](https://github.com/grayashh/TIL/tree/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%26%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/DataStructure)
-- [알고리즘](https://github.com/grayashh/TIL/tree/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%26%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/Algorithm)
-- [데이터 구조와 알고리즘을 이해하는 데 필요한 지식들](https://github.com/grayashh/TIL/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%26%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/EtcKnowledge)
+- 데이터 구조와 알고리즘, 자료형, 빅 오 표기법
+
+- 선형 데이터 구조
+
+- 트리 데이터 구조
+
+- 해시 데이터 구조
+
+- 그래프
+
+# 알고리즘
+
+- 선형 및 이진 탐색
+
+- 정렬 알고리즘
+
+- 경로 탐색 알고리즘
+
+- 군집화 알고리즘
