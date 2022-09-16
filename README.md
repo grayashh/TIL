@@ -6,7 +6,7 @@
 
 - [데이터 구조와 알고리즘, 자료형, 빅 오 표기법](https://github.com/grayashh/TIL/blob/main/DataStructure/1.md)
 
-- 선형 데이터 구조
+- [선형 데이터 구조](https://github.com/grayashh/TIL/blob/main/DataStructure/2.md)
 
 - 트리 데이터 구조
 
