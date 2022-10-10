@@ -46,4 +46,4 @@
 
 # Programming Language
 
-- [Java](https://github.com/grayashh/TIL/blob/main/ProgrammingLanguage/Java/1.md)
+- [Java](https://github.com/grayashh/TIL/blob/main/ProgrammingLanguage/Java/README.md)
